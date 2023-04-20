@@ -170,7 +170,11 @@
                           
                             <li class="nav-item">
                                 <a class="nav-link" href="index.html">home</a>
-                            </li>					
+                            </li>
+			    
+			    <li class="nav-item">
+                                <a class="nav-link" href="https://mybotforum.bio/" onclick="window.open(this.href, '_blank', 'width=800, height=600'); return false;"> community</a>
+                            </li>
 										
                             <li class="nav-item">
                                 <a class="nav-link" href="contact.html">Contact us</a>
